@@ -6,6 +6,6 @@ public class Teste {
 		Pessoa p = new Pessoa();
 		p.setNome("Arthur");
 		p.setEndereco(endereco);		
-		
+		System.out.println(p);
 	}
 }
